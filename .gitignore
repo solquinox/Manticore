@@ -1,0 +1,5 @@
+*.o
+manticore
+*.swp
+*~
+.DS_Store
